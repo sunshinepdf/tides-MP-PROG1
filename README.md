@@ -10,6 +10,7 @@ statements, and iterative statements in order to execute the mechanics of the
 game.
 
  Acknowledgements:  
+      
       + ASCII Art - https://www.asciiart.eu/ 
       
       + Random Number Generation - https://www.geeksforgeeks.org/generating-random-number-range-c/
